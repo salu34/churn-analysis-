@@ -14,6 +14,7 @@ Identify key churn drivers like demographics, usage, and customer service issues
 Track trends and KPIs related to churn and retention
 
  Key Features
+ 
  Churn Rate Analysis:
 Visual representation of overall churn rate and monthly trends.
 
